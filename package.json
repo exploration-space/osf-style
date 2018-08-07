@@ -1,5 +1,5 @@
 {
-  "name": "@centerforopenscience/osf-style",
+  "name": "@providedh/osf-style",
   "version": "1.7.0",
   "description": "OSF Style Guide",
   "main": "css/base.css",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CenterForOpenScience/osf-style.git"
+    "url": "https://github.com/providedh/osf-style.git"
   },
   "keywords": [
     "OSF",
@@ -38,7 +38,7 @@
   "author": "Caner Uguz",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/CenterForOpenScience/osf-style/issues"
+    "url": "https://github.com/providedh/osf-style/issues"
   },
-  "homepage": "https://github.com/CenterForOpenScience/osf-style"
+  "homepage": "https://github.com/providedh/osf-style"
 }
