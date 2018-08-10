@@ -1,11 +1,13 @@
 OSF Style Guidelines
 =========
 
+Adjusted OSF Style Guidelines to the PROVIDEDH CHIST-ERA Project.
+
 This project aims to bring together resources to build Design and Layout of OSF components. As you are working with OSF please use this project as reference for how elements on your page should look and how the HTML and CSS should be used. This is a collaborative project so feel free to suggest changes or Pull Requests.
 ### Quick Start
 * Clone the remote repo to your local
 
-        $ git clone https://github.com/CenterForOpenScience/osf-style.git
+        $ git clone https://github.com/providedh/osf-style.git
         $ cd osf-style
     
 * Install the dependent libraries (listed in [package.json](https://github.com/haoyuchen1992/osf-style/blob/Edit-Readme/package.json)) with npm
